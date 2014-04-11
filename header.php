@@ -1,10 +1,10 @@
 <ul id="navigation">
     <li id="nav1"><a href="index.php"><strong>Startseite</strong><span></span></a></li>
-    <li id="nav2" class="dropdown"><a href="#"><strong>Schulen</strong><span></span></a>
+    <li id="nav2" class="dropdown"><a href="schulen.php"><strong>Schulen</strong><span></span></a>
         <ul id="dropdown">
-            <li class="static"><a href="#">Grundschule</a></li>
-            <li class="static"><a href="#">Sekundarschule</a></li>
-            <li class="static"><a href="#">Gymnasium</a></li>
+            <li class="static"><a href="schulen.php?art=grundschule">Grundschule</a></li>
+            <li class="static"><a href="schulen.php?art=sekundarschule">Sekundarschule</a></li>
+            <li class="static"><a href="schulen.php?art=gymnasium">Gymnasium</a></li>
         </ul>
     </li>
     <li id="nav3"><a href="#"><strong>Infos / News</strong><span></span></a></li>
