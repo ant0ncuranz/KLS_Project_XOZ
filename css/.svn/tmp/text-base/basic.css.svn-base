@@ -1,0 +1,268 @@
+html, body {
+    background-color: #e3eff7;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #ffffff;
+    margin-top: 33px;
+    border: thin solid white;
+    font-family: 'PT Sans', sans-serif;
+    width: 640px;
+}
+
+hr {
+    margin: 27px auto;
+    background-color: #bebebe;
+    width: 80%;
+    border: 0 none;
+    height: 1px; }
+
+    hr.footer {
+        background-color: #bebebe;
+        width: 80%;
+        border: 0 none;
+        height: 1px;
+        margin: 10px auto; }
+
+#header {
+    height: 129px;
+    width: 100%;
+    margin: auto;
+    
+}
+
+#upperPart {
+    height: 90px;
+    width: 100%;
+    background-color: #4f81bd;
+    margin: auto;
+    
+}
+
+#logo {
+    position: absolute;
+    z-index: 1;
+    float: left;
+}
+
+#schriftzug1 {
+    position: relative;
+    display: block;
+    margin: 0px auto;
+    top: 20px;
+    
+    
+}
+
+#schriftzug2 {
+    margin: 11.5px auto;
+    display: block;
+    
+}
+
+#unesco {
+    float: right;
+    position: relative;
+    top: -28px;
+    right: 25px;
+    
+}
+
+main {
+    margin: auto;
+    position: relative;
+    background: #ffffff;
+    
+}
+
+article {
+    width: 100%;
+    
+}
+
+.article_content {
+    background-color: #f3f3f3;
+    padding: 5px 5px 5px 5px;
+    text-align: justify;
+    overflow: hidden; }
+
+    .article_content a {
+        text-decoration: none;
+        color: #c0504d; }
+
+section {
+    padding: 1px 12px 12px;
+    font-family: 'PT Sans', sans-serif;
+    color: #424242;
+    
+}
+
+.trennlinie {
+    width: 100%;
+    height: 55px;
+    margin-top: 13px;
+    background: url(../resources/trennlinie.png) no-repeat center;
+    
+}
+
+#navigation {
+    list-style-type: none;
+    position: fixed;
+    left: -72px;
+    top: 108px;
+    z-index: 3; }
+
+    #navigation li {
+        width: 180px;
+        height: 35px;
+        -webkit-transition: all 0.2s;
+        -moz-transition: all 0.2s;
+        -o-transition: all 0.2s;
+        transition: all 0.2s; }
+
+        #navigation li:not(.static):hover {
+            
+            -webkit-transform: translateX(32px);
+            -webkit-transform-origin: left;
+            -moz-transform: translateX(32px);
+            -moz-transform-origin: left;
+            -o-transform: translateX(32px);
+            -o-transform-origin: left;
+            transform: translateX(32px);
+            transform-origin: left; }
+
+        #navigation li.dropdown {
+            position: relative; }
+        
+        #navigation li.dropdown li {
+            width: 100%; }
+    
+        #navigation li.dropdown a {
+            position: relative;
+            left: 0;
+            display: block; }
+
+        #navigation li.dropdown ul {
+            display: none;
+            width: 148px;
+            position: absolute;
+            left: 180px;
+            top: 0;
+            list-style-type: none;
+            padding-left: 10px; }
+
+        #navigation li.dropdown:hover ul {
+            display: block;
+            background: #f2c307; }
+
+    #navigation a {
+        color: white;
+        text-decoration: none;
+        line-height: 35px;
+        width: 100%;
+        height: 100%;
+        display: block;
+        float: left; }
+
+    #navigation span {
+        height: 35px;
+        width: 32px;
+        float: right; }
+
+#nav1 {
+    background: #cc6666; }
+
+    #nav1 span {
+        background: #c0504d;
+        height: 35px;
+        width: 32px;
+        float: right; }
+
+    #nav1 strong {
+        padding-left: 40px; }
+
+#nav2 {
+    background: #fad84f; }
+
+    #nav2 span {
+        background: #f2c307;
+        height: 35px;
+        width: 32px;
+        float: right; }
+
+    #nav2 strong {
+        padding-left: 40px; }
+
+#nav3 {
+    background: #99cc66; }
+
+    #nav3 span {
+        background: #85b059;
+        height: 35px;
+        width: 32px;
+        float: right; }
+
+    #nav3 strong {
+        padding-left: 40px; }
+
+#nav4 {
+    background: #66cccc; }
+
+    #nav4 span {
+        background: #4bacc6;
+        height: 35px;
+        width: 32px;
+        float: right; }
+
+    #nav4 strong {
+        padding-left: 40px; }
+
+#nav5 {
+    background: #6699cc; }
+
+    #nav5 span {
+        background: #4f81bd; }
+
+    #nav5 strong {
+        padding-left: 40px; }
+
+#footer {
+    width: 100%;
+    height: 73px;
+    padding-top: 15px;
+    background: #ffffff;
+    
+}
+
+#impressum {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    text-decoration: none;
+    font-size: 12px;
+    color: #717171;
+    
+}
+
+.img {
+    float: right;
+    margin: 6px;
+    max-height: 400px;
+    max-width: 400px;
+    
+}
+
+#more {
+    text-decoration: none;
+    color: #c0504d;
+    float: right;
+    margin-right: 8px;
+    
+}
+
+#viewAll {
+    position: relative;
+    bottom: 0;
+    
+}

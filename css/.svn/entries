@@ -1,0 +1,77 @@
+9
+
+dir
+0
+https://subversion.exozet.com/svn/schulprojekt_anton/css
+https://subversion.exozet.com/svn/schulprojekt_anton
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f9c396f-41ac-4f35-bef2-39ec8ca73843
+
+admin.css
+file
+
+
+
+add
+
+fachbereiche.css
+file
+
+
+
+add
+
+kontakt.css
+file
+
+
+
+add
+
+lightbox.css
+file
+
+
+
+add
+
+basic.css
+file
+
+
+
+add
+
+articles.css
+file
+
+
+
+add
+
+startseite.css
+file
+
+
+
+add
+

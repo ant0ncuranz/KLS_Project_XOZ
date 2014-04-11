@@ -1,0 +1,72 @@
+@import url('basic.css');
+
+.article_header {
+    background: #c0504d url(../resources/brackets/bracket_left_red.jpg) no-repeat left top;
+    height: 44px;
+    margin-bottom: 1px;
+    overflow: hidden;
+    padding-left: 20px;
+    color: #c0504d;
+}
+
+.article_title {
+    background: url(../resources/brackets/bracket_right_red.jpg) no-repeat right top;
+    font-size: 16px;
+    height: 44px; /* Analog zum Zeilenabstand dieses Elements */
+    display: inline-block;
+    margin: 0;
+    line-height: 44px;  /* Analog zur Höhe dieses Elements */
+    padding: 0 26px 0 8px;
+    max-width: 600px;
+    border-right: 5px solid white;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.article_content p {
+    padding-left: 7.5%;
+    margin: 0;
+    
+}
+
+input[type="file"] {
+    margin-left: 6px;
+    
+}
+
+input[type="submit"] {
+    display: block;
+    margin: auto;
+    
+}
+
+input[type="text"] {
+    width: 85%;
+    display: block;
+    margin: auto;
+}
+
+label {
+    margin-left: 7.5%;
+    
+}
+
+textarea {
+    display: block;
+    width: 85%;
+    height: 400px;
+    margin: auto;
+    
+}
+
+#article_selection li {
+    list-style-type: none;
+    
+}
+
+#article_selection {
+    overflow: scroll;
+    max-height: 400px;
+    
+}

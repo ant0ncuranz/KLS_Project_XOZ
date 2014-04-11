@@ -1,0 +1,59 @@
+@import url('basic.css');
+
+.article_header {
+    background: #4bacc6 url(../resources/brackets/bracket_left_cyan.jpg) no-repeat left top;
+    height: 44px;
+    margin-bottom: 1px;
+    overflow: hidden;
+    padding-left: 20px;
+    color: #4bacc6;
+}
+
+.article_title {
+    background: url(../resources/brackets/bracket_right_cyan.jpg) no-repeat right top;
+    font-size: 16px;
+    height: 44px; /* Analog zum Zeilenabstand dieses Elements */
+    display: inline-block;
+    margin: 0;
+    line-height: 44px;  /* Analog zur Höhe dieses Elements */
+    padding: 0 26px 0 8px;
+    max-width: 600px;
+    border-right: 5px solid white;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.bilder {
+    height: 178px;
+}
+
+#sprachen {
+    background: url(../resources/fachbereiche/sprachen.jpg);
+    
+}
+
+#nawi {
+    background: url(../resources/fachbereiche/nawi.jpg);
+    
+}
+
+#religion {
+    background: url(../resources/fachbereiche/religion.jpg);
+    
+}
+
+#sport {
+    background: url(../resources/fachbereiche/sport.jpg);
+    
+}
+
+#geist {
+    background: url(../resources/fachbereiche/geisteswissenschaften.jpg);
+    
+}
+
+#musik {
+    background: url(../resources/fachbereiche/musik.jpg);
+    
+}

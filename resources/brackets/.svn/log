@@ -1,0 +1,14 @@
+<modify-entry
+   committed-rev="1"
+   committed-date="2014-04-11T09:04:11.170052Z"
+   name=""
+   last-author="anton.curanz"/>
+<delete-changelist
+   name=""/>
+<committed
+   name=""
+   revision="1"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/schulprojekt_anton/!svn/ver/1/resources/brackets"/>
