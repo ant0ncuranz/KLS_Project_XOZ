@@ -1,88 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a193591-3d66-45e0-988f-c8573559a699" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/KLS_Project_XOZ.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_images/10.jpg" afterPath="$PROJECT_DIR$/article_images/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_images/2.png" afterPath="$PROJECT_DIR$/article_images/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_images/3.png" afterPath="$PROJECT_DIR$/article_images/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_images/4.jpg" afterPath="$PROJECT_DIR$/article_images/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_images/9.jpg" afterPath="$PROJECT_DIR$/article_images/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/blackout.png" afterPath="$PROJECT_DIR$/resources/blackout.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/brackets/bracket_left_blue.jpg" afterPath="$PROJECT_DIR$/resources/brackets/bracket_left_blue.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/brackets/bracket_left_cyan.jpg" afterPath="$PROJECT_DIR$/resources/brackets/bracket_left_cyan.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/brackets/bracket_left_red.jpg" afterPath="$PROJECT_DIR$/resources/brackets/bracket_left_red.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/brackets/bracket_left_yellow.jpg" afterPath="$PROJECT_DIR$/resources/brackets/bracket_left_yellow.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/brackets/bracket_right_blue.jpg" afterPath="$PROJECT_DIR$/resources/brackets/bracket_right_blue.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/brackets/bracket_right_cyan.jpg" afterPath="$PROJECT_DIR$/resources/brackets/bracket_right_cyan.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/brackets/bracket_right_red.jpg" afterPath="$PROJECT_DIR$/resources/brackets/bracket_right_red.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/brackets/bracket_right_yellow.jpg" afterPath="$PROJECT_DIR$/resources/brackets/bracket_right_yellow.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/close.png" afterPath="$PROJECT_DIR$/resources/close.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/favicon.jpg" afterPath="$PROJECT_DIR$/resources/favicon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/fachbereiche/geisteswissenschaften.jpg" afterPath="$PROJECT_DIR$/resources/fachbereiche/geisteswissenschaften.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/journal.png" afterPath="$PROJECT_DIR$/resources/journal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/loading.gif" afterPath="$PROJECT_DIR$/resources/loading.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/logo.png" afterPath="$PROJECT_DIR$/resources/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/fachbereiche/musik.jpg" afterPath="$PROJECT_DIR$/resources/fachbereiche/musik.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/fachbereiche/nawi.jpg" afterPath="$PROJECT_DIR$/resources/fachbereiche/nawi.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/next.png" afterPath="$PROJECT_DIR$/resources/next.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/prev.png" afterPath="$PROJECT_DIR$/resources/prev.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/fachbereiche/religion.jpg" afterPath="$PROJECT_DIR$/resources/fachbereiche/religion.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/schriftzug1.png" afterPath="$PROJECT_DIR$/resources/schriftzug1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/schriftzug2.png" afterPath="$PROJECT_DIR$/resources/schriftzug2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/fachbereiche/sport.jpg" afterPath="$PROJECT_DIR$/resources/fachbereiche/sport.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/fachbereiche/sprachen.jpg" afterPath="$PROJECT_DIR$/resources/fachbereiche/sprachen.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/surreal.jpg" afterPath="$PROJECT_DIR$/resources/surreal.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/unesco.png" afterPath="$PROJECT_DIR$/resources/unesco.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/vogel.png" afterPath="$PROJECT_DIR$/resources/vogel.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/HEAD" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/HEAD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/admin.css" afterPath="$PROJECT_DIR$/css/admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin.php" afterPath="$PROJECT_DIR$/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/applypatch-msg.sample" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/applypatch-msg.sample" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/articles.css" afterPath="$PROJECT_DIR$/css/articles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/articles.php" afterPath="$PROJECT_DIR$/articles.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/articles.sql" afterPath="$PROJECT_DIR$/articles.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/basic.css" afterPath="$PROJECT_DIR$/css/basic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/commit-msg.sample" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/commit-msg.sample" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/config" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database.php" afterPath="$PROJECT_DIR$/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/description" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/description" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_article.php" afterPath="$PROJECT_DIR$/edit_article.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_article_helper.php" afterPath="$PROJECT_DIR$/edit_article_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/info/exclude" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/info/exclude" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fachbereiche.css" afterPath="$PROJECT_DIR$/css/fachbereiche.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fachbereiche.php" afterPath="$PROJECT_DIR$/fachbereiche.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grundschule.txt" afterPath="$PROJECT_DIR$/grundschule.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gymnasium.txt" afterPath="$PROJECT_DIR$/gymnasium.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-1.11.0.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.11.0.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-2.1.0.min.js" afterPath="$PROJECT_DIR$/js/jquery-2.1.0.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/kontakt.css" afterPath="$PROJECT_DIR$/css/kontakt.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kontakt.php" afterPath="$PROJECT_DIR$/kontakt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/lightbox.css" afterPath="$PROJECT_DIR$/css/lightbox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lightbox.min.js" afterPath="$PROJECT_DIR$/js/lightbox.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_article.php" afterPath="$PROJECT_DIR$/new_article.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/post-update.sample" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/post-update.sample" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/pre-applypatch.sample" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/pre-applypatch.sample" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/pre-commit.sample" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/pre-commit.sample" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/pre-push.sample" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/pre-push.sample" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/pre-rebase.sample" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/pre-rebase.sample" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/prepare-commit-msg.sample" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/prepare-commit-msg.sample" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/schulen.css" afterPath="$PROJECT_DIR$/css/schulen.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schulen.php" afterPath="$PROJECT_DIR$/schulen.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sekundarschule.txt" afterPath="$PROJECT_DIR$/sekundarschule.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/startseite.css" afterPath="$PROJECT_DIR$/css/startseite.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/update.sample" afterPath="$PROJECT_DIR$/KLS_Project_XOZ.git/hooks/update.sample" />
-    </list>
+    <list default="true" id="5a193591-3d66-45e0-988f-c8573559a699" name="Default" comment="" />
     <ignored path="KLS_Project_XOZ.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -107,10 +26,8 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="55" selection-start="363" selection-end="363" vertical-scroll-proportion="0.18495685" vertical-offset="0" max-vertical-offset="1725">
-              <folding>
-                <marker date="1397389127000" expanded="true" signature="579:626" placeholder="SELECT * FRO..articles..." />
-              </folding>
+            <state line="10" column="55" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1725">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,7 +35,7 @@
       <file leaf-file-name="basic.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/basic.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="224" column="30" selection-start="4069" selection-end="4069" vertical-scroll-proportion="0.0" vertical-offset="3247" max-vertical-offset="4095">
+            <state line="224" column="30" selection-start="4069" selection-end="4069" vertical-scroll-proportion="0.0" vertical-offset="3360" max-vertical-offset="4095">
               <folding />
             </state>
           </provider>
@@ -251,14 +168,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="217" y="22" width="1430" height="968" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26080692" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26080692" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -269,6 +185,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -308,9 +225,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/startseite.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/basic.css">
@@ -322,10 +237,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="55" selection-start="363" selection-end="363" vertical-scroll-proportion="0.18495685" vertical-offset="0" max-vertical-offset="1725">
-          <folding>
-            <marker date="1397389127000" expanded="true" signature="579:626" placeholder="SELECT * FRO..articles..." />
-          </folding>
+        <state line="10" column="55" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1725">
+          <folding />
         </state>
       </provider>
     </entry>
