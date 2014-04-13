@@ -11,14 +11,6 @@
         <script src="js/jquery-1.11.0.min.js"></script>
         <script src="js/lightbox.min.js"></script>
         
-        <script>
-            $(document).ready(function(){
-                $(".img").each(function(){
-                    $(this).width($(this).width() * 0.5);
-                });
-            });
-        </script>
-        
         <?php
             
             include 'database.php';
