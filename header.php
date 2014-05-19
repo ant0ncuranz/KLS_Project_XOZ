@@ -13,9 +13,9 @@
 </ul>
 <header id="header">
     <div id="upperPart">
-        <img src="resources/logo.png" id="logo">
-        <img src="resources/schriftzug1.png" id="schriftzug1">
-        <img src="resources/unesco.png" id="unesco">
+        <img src="resources/logo.png" id="logo" alt="Logo">
+        <img src="resources/schriftzug1.png" id="schriftzug1" alt="Königin-Luise-Stiftung">
+        <img src="resources/unesco.png" id="unesco" alt="UNESCO Schule">
     </div>
-    <img src="resources/schriftzug2.png" id="schriftzug2">
+    <img src="resources/schriftzug2.png" id="schriftzug2" alt="Selbst Sein - Miteinander - Weiterkommen">
 </header>

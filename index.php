@@ -69,7 +69,7 @@
                 <div class="article_content">
                     <?php
                         if(!is_null($row["img"])) {
-                            echo '<a href="article_images/'.$row["img"].'" data-lightbox="img1"><img src="article_images/' . $row["img"] . '" class="img"></a>';
+                            echo '<a href="article_images/'.$row["img"].'" data-lightbox="img1"><img src="article_images/' . $row["img"] . '" class="img" alt="ArtikelThumbnail"></a>';
                         }
                         
                         if(strlen($row["content"]) > 850) {
@@ -80,7 +80,7 @@
                             $text = nl2br(trim(substr($row["content"], 0, 850)));
                         }
                     
-                        echo "<p>".$text."</p><a id='viewAll' href='articles.php?id=" . $row["id"] . "'><strong>Ganzer Artikel</strong></a>";
+                        echo "<p>".$text."</p><a class='viewAll' href='articles.php?id=" . $row["id"] . "'><strong>Ganzer Artikel</strong></a>";
                     ?>
                 </div>
                 
